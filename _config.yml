@@ -48,12 +48,15 @@ author:
       url:
 home:
   section1: <h1>个人博客</h1>
-  section2: <h2>记录琐屑的生活小事、或者感悟、或者学习</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section2: <h2> </h2>
+  section3: <h3>以此记录生活的琐屑小事</h2>
+  section4: <h3>或者一些感悟</h2>
+  section5: <h3>或者一些学习方法</h2>
+#  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-  footer_content: 杰轩，立志努力的工程师，广州
+  footer_content: 杰轩.立志努力的工程师.广州
 
 disqus:
   shortname: # e.g. yizeng
