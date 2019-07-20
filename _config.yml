@@ -35,7 +35,7 @@ author:
     - name: 
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/jiexuan/jekyll-theme-simple-texture
     - name: 
       url:
     - name: linkedin
@@ -48,10 +48,8 @@ author:
       url:
 home:
   section1: <h1>个人博客</h1>
-  section2: <h2> </h2>
-  section3: <h3>以此记录生活的琐屑小事</h3>
-  section4: <h4>或者一些感悟</h4>
-  section5: <h5>或者一些学习方法</h5>
+  section2: <h2>记录生活的琐屑小事 一点感悟 一些学习</h2>
+ 
 #  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
